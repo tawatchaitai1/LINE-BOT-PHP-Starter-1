@@ -1,4 +1,6 @@
 <?php
+$proxy = 'http://fixie:aoYfea5deitDq95@velodrome.usefixie.com:80';
+$proxyauth = 'tawatchaitai2@gmail.com:055591318a';
 $access_token = 'v7LZqXk7co8gY7hd7AleEmWM3+1kD4vmypOxPzWbUvrwDcxUI5hDqFot6sUpoceXYp4yChvYdsixNo24lT2SmXux9K+cctLY7BhQIfsaxoNfVK8BFhhSn29WaATUTwSf+EbEdiJ7fqEzS9kXITLBswdB04t89/1O/w1cDnyilFU=';
 
 // Get POST body content
